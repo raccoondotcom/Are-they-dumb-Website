@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h2 id="Header">Is chicken dumb?</h2>
+<h2 id="Header">question?</h2>
 
 <p id="result">Choose your answer!</p>
 
