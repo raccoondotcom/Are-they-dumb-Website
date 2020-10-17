@@ -1,8 +1,8 @@
-.navbar {
+.navbar navbar-light bg-light {
     position: sticky;
     bottom: 0;
     width: 100%;
   }
-  .navbar a:hover {
+  .navbar navbar-light bg-light a:hover {
     color: rgb(6, 171, 212);
   }
