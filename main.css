@@ -1,0 +1,10 @@
+.navbar {
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  .navbar a:hover {
+    background-color: #ddd;
+    color: rgb(6, 171, 212);
+  }
