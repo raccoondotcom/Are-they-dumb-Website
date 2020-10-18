@@ -21,4 +21,7 @@ function clickYes() {
 
 function clickNo() {
   setText("Wrooong");
+  
+  const noButton = document.getElementById("no");
+  noButton.remove();
 }
