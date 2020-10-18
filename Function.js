@@ -4,7 +4,9 @@ function removeButtons() {
   const noButton = document.getElementById("no");
 
   yesButton.remove();
-  noButton.remove();
+  if (noButton) {
+    noButton.remove();
+  }
 }
 
 // This function sets the text of the result header
@@ -21,7 +23,7 @@ function clickYes() {
 
 function clickNo() {
   setText("Wrooong");
-  
+
   const noButton = document.getElementById("no");
   noButton.remove();
 }
