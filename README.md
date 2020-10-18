@@ -1,4 +1,4 @@
-# website1
+# Are thsy dumb? website
 This is a simple website to joke around
 Feel free to use the code to mess around with your friends
 
