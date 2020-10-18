@@ -1,8 +1,17 @@
-.navbar navbar-light bg-light {
-    position: sticky;
-    bottom: 0;
-    width: 100%;
-  }
-  .navbar navbar-light bg-light a:hover {
-    color: rgb(6, 171, 212);
-  }
+#div1 {
+    position:relative;
+    height:101px;
+    width:100%;
+    border:2px solid black;
+ }
+ 
+ 
+ #div1 nav {
+ 
+ 
+ float:right;
+ position:absolute;
+ bottom:0;
+ right:0;
+ 
+ }
