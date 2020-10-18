@@ -1,4 +1,5 @@
 // Have one function to remove both buttons
+// Remove this if you don't want buttons to be remove when you press yes
 function removeButtons() {
   const yesButton = document.getElementById("yes");
   const noButton = document.getElementById("no");
@@ -24,6 +25,7 @@ function clickYes() {
 function clickNo() {
   setText("Wrooong");
 
+  //Remove the two lines after this to prevent no from getting removed when pressed
   const noButton = document.getElementById("no");
   noButton.remove();
 }
