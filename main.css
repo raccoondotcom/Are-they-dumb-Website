@@ -1,5 +1,5 @@
 #div1 {
-    position:relative;
+    position:sticky;
     height:101px;
     width:100%;
     border:2px solid black;
@@ -12,6 +12,6 @@
  float:right;
  position:absolute;
  bottom:0;
- right:0;
+ left:0;
  
  }
