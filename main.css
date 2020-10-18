@@ -1,8 +1,7 @@
 #div1 {
     position:sticky;
-    height:101px;
-    width:100%;
-    border:2px solid black;
+    bottom: 0;
+    left: 0;
  }
  
  
